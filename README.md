@@ -1,5 +1,5 @@
 ## Hello :wave:
 
 
-[This is an image](https://pinescriptstrategy.com/ricked)
+[Don't click this](https://pinescriptstrategy.com/ricked)
 
