@@ -37,7 +37,6 @@
 - [appguardian.paulseperformance.com](https://appguardian.paulseperformance.com)
 - [profilecraft.paulseperformance.com](https://profilecraft.paulseperformance.com)
 
-![image1](image1)
 
 ---
 
