@@ -43,7 +43,6 @@
 ## 🌐 Find Me Online
 
 - 🌍 [paulseperformance.com](https://paulseperformance.com)
-- 📄 [Resume](https://paulseperformance.com/resume)
 - 🛠️ [pinescriptstrategy.com](https://pinescriptstrategy.com)
 
 ---
@@ -51,11 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pAulseperformance&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pAulseperformance&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pAulseperformance&layout=compact&theme=radical" alt="Top languages"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=pAulseperformance&color=blueviolet" alt="Profile views"/>
 </p>
