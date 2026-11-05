@@ -50,6 +50,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://portfolio-gh-stats.admin-1e3.workers.dev/stats.svg?user=pAulseperformance" alt="GitHub stats"/>
+  <br/>
+  <img src="https://portfolio-gh-stats.admin-1e3.workers.dev/langs.svg?user=pAulseperformance" alt="Top languages"/>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pAulseperformance&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=pAulseperformance&color=blueviolet" alt="Profile views"/>
