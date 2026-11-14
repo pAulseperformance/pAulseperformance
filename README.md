@@ -2,6 +2,8 @@
 
 **Automation Specialist | Full Stack Developer | Cloud Infrastructure | Finance Innovator**
 
+Portfolio: **pAulseperformance.com**, the work, the proof and the record in one page.
+
 ---
 
 ## 🚀 About Me
