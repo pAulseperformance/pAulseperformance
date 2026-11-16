@@ -4,6 +4,16 @@
 
 Portfolio: **[pAulseperformance.com](https://pAulseperformance.com/)**, the work, the proof and the record in one page.
 
+<a href="https://pAulseperformance.com/#stack"><img src="https://pAulseperformance.com/card/stack.svg" alt="The stack: 18 services, 7 with a date, ranked by when each was last used" width="460"></a>
+
+<p>
+  <a href="https://pAulseperformance.com/#stack"><img src="https://pAulseperformance.com/badge/stack.svg" alt="the stack: 18 tools, 7 with a date" height="28"></a>
+  <img src="https://pAulseperformance.com/badge/cloudflare.svg" alt="Cloudflare: last used today" height="28">
+  <img src="https://pAulseperformance.com/badge/github.svg" alt="GitHub: last used today" height="28">
+  <img src="https://pAulseperformance.com/badge/twelve-data.svg" alt="Twelve Data: last used today" height="28">
+  <img src="https://pAulseperformance.com/badge/modal.svg" alt="Modal: last used 11d ago" height="28">
+</p>, the work, the proof and the record in one page.
+
 ---
 
 ## 🚀 About Me
