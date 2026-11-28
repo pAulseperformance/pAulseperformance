@@ -4,14 +4,14 @@
 
 Portfolio: **[pAulseperformance.com](https://pAulseperformance.com/)**, the work, the proof and the record in one page.
 
-<a href="https://pAulseperformance.com/#stack"><img src="https://pAulseperformance.com/card/stack.svg?v=2026-11-27" alt="The stack: 18 services, 7 with a date, ranked by when each was last used" width="460"></a>
+<a href="https://pAulseperformance.com/#stack"><img src="https://pAulseperformance.com/card/stack.svg?v=2026-11-28" alt="The stack: 18 services, 7 with a date, ranked by when each was last used" width="460"></a>
 
 <p>
-  <a href="https://pAulseperformance.com/#stack"><img src="https://pAulseperformance.com/badge/stack.svg?v=2026-11-27" alt="the stack: 18 tools, 7 with a date" height="28"></a>
-  <img src="https://pAulseperformance.com/badge/cloudflare.svg?v=2026-11-27" alt="Cloudflare: last used today" height="28">
-  <img src="https://pAulseperformance.com/badge/github.svg?v=2026-11-27" alt="GitHub: last used today" height="28">
-  <img src="https://pAulseperformance.com/badge/twelve-data.svg?v=2026-11-27" alt="Twelve Data: last used today" height="28">
-  <img src="https://pAulseperformance.com/badge/modal.svg?v=2026-11-27" alt="Modal: last used 11d ago" height="28">
+  <a href="https://pAulseperformance.com/#stack"><img src="https://pAulseperformance.com/badge/stack.svg?v=2026-11-28" alt="the stack: 18 tools, 7 with a date" height="28"></a>
+  <img src="https://pAulseperformance.com/badge/cloudflare.svg?v=2026-11-28" alt="Cloudflare: last used today" height="28">
+  <img src="https://pAulseperformance.com/badge/github.svg?v=2026-11-28" alt="GitHub: last used today" height="28">
+  <img src="https://pAulseperformance.com/badge/twelve-data.svg?v=2026-11-28" alt="Twelve Data: last used today" height="28">
+  <img src="https://pAulseperformance.com/badge/modal.svg?v=2026-11-28" alt="Modal: last used 11d ago" height="28">
 </p>, the work, the proof and the record in one page.
 
 ---
